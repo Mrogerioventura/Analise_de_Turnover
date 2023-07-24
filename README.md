@@ -12,5 +12,6 @@ O resultado desse levantamento ***gerou 19 possíveis fatores que explicam o c
 
 ## 3 - Metadados
 
-![image](https://github.com/Mrogerioventura/Analise_de_Turnover/assets/67667695/a8f8dec7-2fd9-4cc9-9fa6-4f8522bb36fc)
+![image](https://github.com/Mrogerioventura/Analise_de_Turnover/assets/67667695/6efc13ee-323a-4b14-8a46-6bb4d1a39a17)
+
 
