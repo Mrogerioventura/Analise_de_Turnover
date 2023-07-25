@@ -7,8 +7,9 @@ Para tentar entender quais as características que fazem um funcionário ficar o
 O resultado desse levantamento ***gerou 19 possíveis fatores que explicam o comportamento do turnover***, que estão disponíveis no arquivo Base_RH.xlsx. 
 
 ## 2 - Contextualização
-
-
+Para tentar entender quais as características que fazem um funcionário ficar ou deixar uma empresa de Tecnologia,
+o RH desta empresa catalogou informações de1470 funcionários que deixaram ou permaneceram na companhia no último ano.
+O resultado desse levantamento gerou 19 possíveis fatores que explicam o comportamento do turnover, que estão disponíveis no arquivo Base_RH.xlsx.
 
 ## 3 - Metadados
 
