@@ -13,6 +13,9 @@ O resultado desse levantamento gerou 19 possíveis fatores que explicam o compor
 
 ## 3 - Metadados
 
-![image](https://github.com/Mrogerioventura/Analise_de_Turnover/assets/67667695/6efc13ee-323a-4b14-8a46-6bb4d1a39a17)
+![image](https://github.com/Mrogerioventura/Analise_de_Turnover/assets/67667695/39567f88-a67e-402d-983e-ebd90a5a8863)
+
+
+
 
 
