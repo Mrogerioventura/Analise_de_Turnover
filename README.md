@@ -1,17 +1,17 @@
-# Analise_de_Turnover
+# Turnover_Analysis
 
-## 1 - Introdução
-Este trabalho tem como objetivo analisar o Turnover de uma empresa de Tecnologia, conforme solicitação do Departamento de Recursos Humanos (RH). 
+## 1. Introduction
+This work aims to analyze the Turnover of a Technology company, as requested by the Department of Human Resources (HR).
 
-Para tentar entender quais as características que fazem um funcionário ficar ou deixar a empresa de Tecnologia, o RH desta empresa ***catalogou informações de 1470 funcionários que deixaram ou permaneceram na companhia no último ano***. 
-O resultado desse levantamento ***gerou 19 possíveis fatores que explicam o comportamento do turnover***, que estão disponíveis no arquivo Base_RH.xlsx. 
+In order to try to understand what characteristics make an employee stay or leave the Technology company, the HR department at this company ***cataloged information from 1470 employees who left or remained at the company in the last year***.
+The result of this survey ***generated 19 possible factors that explain the turnover behavior***, which are available in the Base_RH.xlsx file.
 
-## 2 - Contextualização
-Para tentar entender quais as características que fazem um funcionário ficar ou deixar uma empresa de Tecnologia,
-o RH desta empresa catalogou informações de1470 funcionários que deixaram ou permaneceram na companhia no último ano.
-O resultado desse levantamento gerou 19 possíveis fatores que explicam o comportamento do turnover, que estão disponíveis no arquivo Base_RH.xlsx.
+## 2 - Contextualization
+To try to understand what characteristics make an employee stay or leave a Technology company,
+the HR of this company cataloged information from 1470 employees who left or remained in the company in the last year.
+The result of this survey generated 19 possible factors that explain turnover behavior, which are available in the Base_RH.xlsx file.
 
-## 3 - Metadados
+## 3 - Metadata
 
 ![image](https://github.com/Mrogerioventura/Analise_de_Turnover/assets/67667695/39567f88-a67e-402d-983e-ebd90a5a8863)
 
